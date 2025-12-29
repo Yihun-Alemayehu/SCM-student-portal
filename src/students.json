@@ -1,0 +1,11 @@
+{
+    "student": {
+        "id": "STU001",
+        "name": "John Doe",
+        "courses": [
+            "Software Engineering",
+            "Database Systems",
+            "Web Development"
+        ]
+    }
+}
